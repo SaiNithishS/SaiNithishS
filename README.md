@@ -1,3 +1,4 @@
+<img src="BANNER.png" alt="sai"/>
 <h1 align="center">Hi 👋, I'm Sai Nithish S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
