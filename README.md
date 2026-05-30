@@ -163,5 +163,5 @@ Developed a modular threat detection system integrating ML-based URL classificat
 
 <p align="center">
   <i>"The best defense is an intelligent offense — detect before they strike."</i><br/>
-  <b>Open to Cybersecurity roles in the UK 🇬🇧 | Right to Work confirmed</b>
+  <b>Open to Cybersecurity roles in the UK 🇬🇧 | I Have Right to Work in the United Kingdom </b>
 </p>
