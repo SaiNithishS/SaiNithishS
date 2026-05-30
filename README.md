@@ -97,13 +97,19 @@ class SaiNithish:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiNithishS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNithishS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiNithishS&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiNithishS&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiNithishS&theme=tokyonight"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiNithishS&theme=tokyonight"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithishS&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiNithishS&theme=tokyonight&utcOffset=0"/>
 </p>
 
 ---
