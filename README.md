@@ -1,223 +1,196 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0_0d1117,50_0a2a1a,100_00D084&height=200&section=header&text=Sai%20Nithish%20Sampath&fontSize=44&fontColor=00D084&animation=twinkling&fontAlignY=34&desc=Cybersecurity%20Engineer%20%7C%20Threat%20Hunter%20%7C%20Security%20Automation%20Enthusiast&descAlignY=62&descSize=16&descColor=ffffff&fontAlign=50" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Nithish%20Sampath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Engineer%20%7C%20Threat%20Hunter%20%7C%20Security%20Automation%20Enthusiast&descAlignY=62&descSize=16" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=MSc+Cybersecurity+%40+University+of+Southampton;Threat+Detection+%7C+SIEM+%7C+Vulnerability+Assessment;Building+Intelligent+Security+Systems+with+ML;Right+to+Work+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D084&background=0D111700&center=true&vCenter=true&width=750&lines=MSc+Cybersecurity+%40+University+of+Southampton;Threat+Detection+%7C+SIEM+%7C+Vulnerability+Assessment;Building+Intelligent+Security+Systems+with+ML;Right+to+Work+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7" />
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sainithishsampath.vercel.app-00D084?style=for-the-badge&logoColor=0d1117)](https://sainithishsampath.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D084?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/sai-nithish-sampath)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-00D084?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:sainithithishsampath@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SaiNithishS-00D084?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/SaiNithishS)
-![Location](https://img.shields.io/badge/📍_Southampton,_UK-0d1117?style=for-the-badge&logoColor=00D084)
-![Views](https://komarev.com/ghpvc/?username=SaiNithishS&style=for-the-badge&color=00D084&labelColor=0d1117)
-
-</div>
+<p align="center">
+  <a href="mailto:sainithithishsampath@gmail.com"><img src="https://img.shields.io/badge/Email-sainithishsampath-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sai-nithish-sampath"><img src="https://img.shields.io/badge/LinkedIn-sai--nithish--sampath-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SaiNithishS"><img src="https://img.shields.io/badge/GitHub-SaiNithishS-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://sainithishsampath.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-sainithishsampath.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Southampton%2C%20UK-2E86AB?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=SaiNithishS&style=flat-square&color=70A5FD" alt="Profile Views"/>
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%"/>
+## 🧑‍💻 About Me
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=99999&color=00D084&background=0D111700&vCenter=true&width=160&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me" />
-
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class SaiNithish:
     def __init__(self):
-        self.name          = "Sai Nithish Sampath"
-        self.location      = "Southampton, UK 🇬🇧"
-        self.degree        = (
-            "MSc Cybersecurity"
-            " @ Univ. of Southampton"
-        )
-        self.right_to_work = True  # UK
+        self.name           = "Sai Nithish Sampath"
+        self.location       = "Southampton, United Kingdom 🇬🇧"
+        self.degree         = "MSc Cybersecurity @ University of Southampton"
+        self.right_to_work  = True  # UK
 
         self.stack = [
-            "Microsoft Sentinel", "Splunk",
-            "Defender XDR", "Python", "Bash",
-            "AWS", "GCP", "Wireshark",
-            "Django", "Machine Learning"
+            "Microsoft Sentinel", "Splunk", "Defender XDR",
+            "Python", "Bash", "AWS", "GCP",
+            "Wireshark", "Django", "Machine Learning"
         ]
 
-        self.learning = [
+        self.currently_learning = [
             "CompTIA Security+",
             "Advanced Threat Hunting",
             "Cloud Security Architecture"
         ]
 
         self.fun_fact = (
-            "Eliminated 2000+ code smells "
-            "in one internship sprint 🧹"
+            "I once eliminated 2000+ code smells "
+            "in a single internship sprint 🧹"
         )
 
-    def motto(self) -> str:
+    def motto(self):
         return "Defend. Detect. Automate. Repeat."
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## 🛡️ Tech Stack
 
-<div align="center">
+**SIEM & Security Tools**
 
-**— SIEM & Security —**
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-00D084?style=flat-square&logo=microsoftazure&logoColor=0d1117)
-![Splunk](https://img.shields.io/badge/Splunk-00D084?style=flat-square&logo=splunk&logoColor=0d1117)
-![Defender XDR](https://img.shields.io/badge/Defender_XDR-00D084?style=flat-square&logo=microsoft&logoColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-00D084?style=flat-square&logo=wireshark&logoColor=0d1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-00D084?style=flat-square&logo=burpsuite&logoColor=0d1117)
+**Languages & Scripting**
 
-**— Languages & Scripting —**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-00D084?style=flat-square&logo=python&logoColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-00D084?style=flat-square&logo=gnubash&logoColor=0d1117)
-![C#](https://img.shields.io/badge/C%23-00D084?style=flat-square&logo=csharp&logoColor=0d1117)
-![Java](https://img.shields.io/badge/Java-00D084?style=flat-square&logo=openjdk&logoColor=0d1117)
+**Cloud & DevOps**
 
-**— Cloud & DevOps —**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-00D084?style=flat-square&logo=amazonaws&logoColor=0d1117)
-![GCP](https://img.shields.io/badge/GCP-00D084?style=flat-square&logo=googlecloud&logoColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-00D084?style=flat-square&logo=linux&logoColor=0d1117)
-![Git](https://img.shields.io/badge/Git-00D084?style=flat-square&logo=git&logoColor=0d1117)
+**Frameworks & ML**
 
-**— Frameworks & ML —**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT%20%2F%20NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-00D084?style=flat-square&logo=django&logoColor=0d1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-00D084?style=flat-square&logo=scikitlearn&logoColor=0d1117)
-![BERT/NLP](https://img.shields.io/badge/BERT%2FNLP-00D084?style=flat-square&logo=tensorflow&logoColor=0d1117)
-![.NET](https://img.shields.io/badge/.NET-00D084?style=flat-square&logo=dotnet&logoColor=0d1117)
+**Networking**
 
-**— Networking —**
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00D084?style=flat-square&logo=cisco&logoColor=0d1117)
-![DNS](https://img.shields.io/badge/DNS-00D084?style=flat-square&logo=cloudflare&logoColor=0d1117)
-![HTTP/SMTP](https://img.shields.io/badge/HTTP%2FSMTP-00D084?style=flat-square&logo=fastly&logoColor=0d1117)
-![SSH](https://img.shields.io/badge/SSH-00D084?style=flat-square&logo=openssh&logoColor=0d1117)
-
-</div>
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C97?style=flat-square&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-008080?style=flat-square&logo=cloudflare&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP%2FSMTP-FF6600?style=flat-square&logo=fastly&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4A154B?style=flat-square&logo=openssh&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiNithishS&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiNithishS&theme=github_dark" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiNithishS&theme=tokyonight"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiNithishS&theme=tokyonight"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithishS&theme=tokyonight"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiNithishS&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiNithishS&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithishS&theme=github_dark"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiNithishS&theme=tokyonight&utcOffset=0"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔬 Detecting File & Network (BGP) Anomalies Using ML
+> **Stack:** Python · Machine Learning · BGP Analysis · Network Security
 
-### 🔬 BGP & File Anomaly Detection
-![Python](https://img.shields.io/badge/Python-00D084?style=flat-square&logo=python&logoColor=0d1117)
-![ML](https://img.shields.io/badge/Machine_Learning-00D084?style=flat-square&logo=scikitlearn&logoColor=0d1117)
-![Network Security](https://img.shields.io/badge/Network_Security-00D084?style=flat-square&logo=cisco&logoColor=0d1117)
+Built an ML system to detect anomalies in files and BGP network traffic targeting threats such as path hijacking, prefix leaks, and ransomware. Applied both supervised and unsupervised models to identify abnormal patterns in real time, achieving **higher accuracy than traditional rule-based methods** across large-scale datasets.
 
-ML system detecting anomalies in files and BGP traffic — targeting path hijacking, prefix leaks, and ransomware. Supervised + unsupervised models achieving **higher accuracy than rule-based methods** on large datasets.
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🧠 Intelligent Threat Detection System
-![Python](https://img.shields.io/badge/Python-00D084?style=flat-square&logo=python&logoColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-00D084?style=flat-square&logo=linux&logoColor=0d1117)
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-00D084?style=flat-square&logo=wireshark&logoColor=0d1117)
+> **Stack:** Python · Network Analysis · Linux · ML-based URL Classification
 
-Modular threat detection with ML-based URL classification and packet analysis. Automated pipelines in Linux delivering **+25% detection accuracy** and **+30% response efficiency**.
-
-</td>
-</tr>
-</table>
+Developed a modular threat detection system integrating ML-based URL classification and network packet analysis. Built automated detection pipelines and debugging workflows in Linux, delivering:
+- 📈 **+25% accuracy** in malicious pattern detection
+- ⚡ **+30% response efficiency** via automated debugging workflows
 
 ---
 
 ## 💼 Work Experience
 
-<table width="100%">
-<tr>
-<th align="left">Period</th>
-<th align="left">Role</th>
-<th align="left">Company</th>
-<th align="left">Key Impact</th>
-</tr>
-<tr>
-<td><code>Apr – Aug 2024</code></td>
-<td><b>Student Developer Intern</b></td>
-<td>Dr Rela Institute, India</td>
-<td>NLP pipeline +20% · App security +15%</td>
-</tr>
-<tr>
-<td><code>Jun – Jul 2023</code></td>
-<td><b>Software Engineering Intern</b></td>
-<td>Danfoss Industries, India</td>
-<td>2000+ code smells removed · Security +30% · Velocity +25%</td>
-</tr>
-</table>
+| Period | Role | Company | Impact |
+|--------|------|---------|--------|
+| Apr – Aug 2024 | **Student Developer Intern** | Dr Rela Institute & Medical Centre, India | Secure API design · NLP pipeline (+20% clinical accuracy) · App security +15% |
+| Jun – Jul 2023 | **Software Engineering Intern** | Danfoss Industries Pvt Ltd, India | Removed 2000+ code smells · Code security +30% · Team velocity +25% |
 
 ---
 
 ## 🎓 Education & Certifications
 
-<table width="100%">
-<tr>
-<th align="left">Degree</th>
-<th align="left">Institution</th>
-<th align="left">Year</th>
-</tr>
-<tr>
-<td><b>MSc Cybersecurity</b></td>
-<td>University of Southampton, UK 🇬🇧</td>
-<td>2025 – Present</td>
-</tr>
-<tr>
-<td><b>B.Tech Information Technology</b></td>
-<td>Anna University, India</td>
-<td>2021 – 2025</td>
-</tr>
-</table>
+**🎓 Education**
 
-<br/>
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MSc Cybersecurity | University of Southampton, UK | 2025 – Present |
+| B.Tech Information Technology | Anna University, India | 2021 – 2025 |
 
-<div align="center">
+**📜 Certifications**
 
-![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B_(May_2026)-00D084?style=flat-square&logo=comptia&logoColor=0d1117)
-![TCM](https://img.shields.io/badge/TCM_Security-Linux_100_(2025)-00D084?style=flat-square&logo=linux&logoColor=0d1117)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner_(2024)-00D084?style=flat-square&logo=amazonaws&logoColor=0d1117)
-![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional_(2024)-00D084?style=flat-square&logo=google&logoColor=0d1117)
-![NPTEL](https://img.shields.io/badge/NPTEL-Privacy_%26_Security_Elite_(2024)-00D084?style=flat-square&logoColor=0d1117)
-![NPTEL](https://img.shields.io/badge/NPTEL-Java_Programming_Elite_(2023)-00D084?style=flat-square&logo=openjdk&logoColor=0d1117)
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(Expected%20May%202026)-FF0000?style=flat-square&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCM%20Security-Linux%20100%20(2025)-1679A7?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(2024)-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20(2024)-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Privacy%20%26%20Security%20(Elite%202024)-003366?style=flat-square&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Java%20Programming%20(Elite%202023)-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0_00D084,50_0a2a1a,100_0d1117&height=130&section=footer&text=Open%20to%20UK%20Cybersecurity%20Roles&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://sainithishsampath.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-sainithishsampath.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sai-nithish-sampath">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sainithithishsampath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SaiNithishS">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>"The best defense is an intelligent offense — detect before they strike."</i><br/>
+  <b>Open to Cybersecurity roles in the UK 🇬🇧 | Right to Work confirmed</b>
+</p>
