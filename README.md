@@ -93,27 +93,6 @@ class SaiNithish:
 ![HTTP](https://img.shields.io/badge/HTTP%2FSMTP-FF6600?style=flat-square&logo=fastly&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4A154B?style=flat-square&logo=openssh&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiNithishS&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiNithishS&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiNithishS&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithishS&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiNithishS&theme=tokyonight&utcOffset=0"/>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
